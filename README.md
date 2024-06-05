@@ -60,7 +60,7 @@ I'm Rishika Bhunia, a data analyst passionate about uncovering insights from dat
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=RishikaB-05
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RishikaB-05&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
@@ -69,7 +69,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=RishikaB-05
 
 * **LinkedIn:** [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rishika-bhunia05)
 
-* **Website/Portfolio:** [Link to your website/portfolio] (optional)
+* **Email** [![Email Badge](https://img.shields.io/badge/Email-white?style=flat&logo=Email&logoColor=white)](rishikabhunia09@gmail.com)
 
 **Feel free to reach out if you have any questions!**
 
