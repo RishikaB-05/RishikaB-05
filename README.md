@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## I'm Rishika Bhunia, a data analyst passionate about uncovering insights from data and leveraging them to solve real-world challenges. 
+### I'm Rishika Bhunia, a data analyst passionate about uncovering insights from data and leveraging them to solve real-world challenges. 
 
 ## **What I'm Interested In 👀:**
 
