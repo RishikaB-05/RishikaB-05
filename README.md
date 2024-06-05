@@ -63,7 +63,7 @@ I'm Rishika Bhunia, a data analyst passionate about uncovering insights from dat
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RishikaB-05&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+![Snake animation](https://github.com/RishikaB-05/RishikaB-05/blob/output/github-contribution-grid-snake.svg)
 
 ### 📫 How to reach me ...
 
@@ -73,6 +73,4 @@ I'm Rishika Bhunia, a data analyst passionate about uncovering insights from dat
 
 **Feel free to reach out if you have any questions!**
 
-### **Projects:**
 
-* Explore some of my data analysis projects in the repositories below!
