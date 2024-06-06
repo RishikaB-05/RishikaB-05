@@ -11,7 +11,7 @@
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-bhunia05?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rishikabhunia05?igsh=bWp5cXVveHA5bDhq) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rishika.bhunia) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RisikaBhunia05?t=jb9INFe_ISFd0yFIKu7DoA&s=09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-bhunia05?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rishikabhunia05?igsh=bWp5cXVveHA5bDhq) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rishika.bhunia?mibextid=ZbWKwL) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RisikaBhunia05?t=jb9INFe_ISFd0yFIKu7DoA&s=09) 
 
 ## **What I'm Interested In 👀:**
 
