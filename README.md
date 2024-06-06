@@ -9,6 +9,10 @@
 
 ### I'm Rishika Bhunia, a data analyst passionate about uncovering insights from data and leveraging them to solve real-world challenges. 
 
+
+# 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rishika.bhunia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rishikabhunia05?igsh=bWp5cXVveHA5bDhq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishika-bhunia05/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RisikaBhunia05?t=jb9INFe_ISFd0yFIKu7DoA&s=09) 
+
 ## **What I'm Interested In 👀:**
 
 * Applying data analysis skills across diverse domains (e.g., finance, healthcare, marketing)
@@ -31,11 +35,8 @@
 
 * **Email** rishikabhunia09@gmail.com
 
-**Feel free to reach out if you have any questions!**
+**Feel free to reach out if you have any questions!😊**
 
-
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rishika.bhunia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rishikabhunia05?igsh=bWp5cXVveHA5bDhq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishika-bhunia05/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RisikaBhunia05?t=jb9INFe_ISFd0yFIKu7DoA&s=09) 
 
 
 <div id="page-count" align="center">
